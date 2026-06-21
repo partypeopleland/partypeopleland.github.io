@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenAB 系列 on Art的辦公桌</title><link>https://blog.missart.net/series/openab-%E7%B3%BB%E5%88%97/</link><description>Recent content in OpenAB 系列 on Art的辦公桌</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2026 Art</copyright><lastBuildDate>Sat, 20 Jun 2026 12:39:29 +0800</lastBuildDate><atom:link href="https://blog.missart.net/series/openab-%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml"/><item><title>deploy openab to aws ecs fargate</title><link>https://blog.missart.net/deploy-openab-to-aws-ecs-fargate/</link><pubDate>Sat, 20 Jun 2026 12:39:29 +0800</pubDate><guid>https://blog.missart.net/deploy-openab-to-aws-ecs-fargate/</guid><description>&lt;h2 class="relative group"&gt;引言
+ &lt;div id="引言" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%bc%95%e8%a8%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;今天這篇文章，我很偷懶的讓我們家 hana 幫我整理草稿跟大綱，這些是我自己在練習 ecs 佈署的過程當中，發生的事情跟感想跟大家分享，希望對大家有一些助益。&lt;/p&gt;</description></item><item><title>OpenAB 新手入門：建立自己的機器人</title><link>https://blog.missart.net/openab-newbie-create-bot/</link><pubDate>Sun, 07 Jun 2026 20:09:10 +0800</pubDate><guid>https://blog.missart.net/openab-newbie-create-bot/</guid><description>&lt;h2 class="relative group"&gt;引言
+ &lt;div id="引言" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%bc%95%e8%a8%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;今天我們來介紹一下，如何將 OpenAB 完整安裝並跑起來。&lt;/p&gt;
+&lt;p&gt;OpenAB 的架構本質上就像是一座橋樑，連接了「通訊平台」（例如 Discord、Slack）與「實際運行 Coding Agent 的主機」。換句話說，這等於讓你在通訊軟體上直接使用 Coding Agent——當你在頻道中輸入指令時，OpenAB 會將這些內容轉送給 Agent 來執行。&lt;/p&gt;
+&lt;p&gt;透過這樣的架構，你就能在習慣的通訊軟體裡，隨時調用自己訂閱的 Coding Agent 帳號（例如 Codex 或 Agy）。&lt;/p&gt;</description></item><item><title>用 OpenAB 讓你的 agent 會畫圖</title><link>https://blog.missart.net/openab-bot-image-generation/</link><pubDate>Sat, 23 May 2026 20:49:49 +0800</pubDate><guid>https://blog.missart.net/openab-bot-image-generation/</guid><description>&lt;h2 class="relative group"&gt;引言
+ &lt;div id="引言" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%bc%95%e8%a8%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;如果你有在用 &lt;code&gt;openab&lt;/code&gt;，你的 &lt;code&gt;bot&lt;/code&gt; 不只能聊天——只要設定對了，她可以自己產圖、自己傳到 Discord。&lt;/p&gt;
+&lt;p&gt;起因是同事被我慫恿訂了 &lt;code&gt;Codex&lt;/code&gt;，結果他讓 &lt;code&gt;AI&lt;/code&gt; 畫出來的圖跟我的差很多，聊了才發現他根本沒用到生成式圖形。這才讓我意識到這件事不是理所當然，值得記下來。&lt;/p&gt;</description></item><item><title>我讓 AI 幫我把表情包拆成 LINE 貼圖，然後她自己想辦法做到了</title><link>https://blog.missart.net/generate-line-pics-with-openab-agent/</link><pubDate>Tue, 05 May 2026 20:40:00 +0800</pubDate><guid>https://blog.missart.net/generate-line-pics-with-openab-agent/</guid><description>&lt;h2 class="relative group"&gt;引言
+ &lt;div id="引言" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%bc%95%e8%a8%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;紀錄一下使用 &lt;code&gt;openab&lt;/code&gt; 的過程。今天這個案例是建立表情包給 &lt;code&gt;agent&lt;/code&gt; 使用。
+這篇文章是我與我的虛擬助理 aris 根據這次經過寫的，也是她在我部落格留下的第一個數位痕跡。文章裡標注「aris 補充」的段落，是她的觀點和建議。
+最後的編寫是由我進行。&lt;/p&gt;</description></item></channel></rss>

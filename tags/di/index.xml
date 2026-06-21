@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DI on Art的辦公桌</title><link>https://blog.missart.net/tags/di/</link><description>Recent content in DI on Art的辦公桌</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2026 Art</copyright><lastBuildDate>Sun, 09 Aug 2020 22:25:14 +0000</lastBuildDate><atom:link href="https://blog.missart.net/tags/di/index.xml" rel="self" type="application/rss+xml"/><item><title>讀書心得-依賴注入：原理、實作與設計模式</title><link>https://blog.missart.net/dependency-injection-principles-practices-patterns/</link><pubDate>Sun, 09 Aug 2020 22:25:14 +0000</pubDate><guid>https://blog.missart.net/dependency-injection-principles-practices-patterns/</guid><description>&lt;h1 class="relative group"&gt;前言
+ &lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="定位點"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;基本上我的讀書心得大概都是看到哪裡寫到哪裡，也很有可能看到一半就忘了這件事情&lt;/p&gt;</description></item></channel></rss>
